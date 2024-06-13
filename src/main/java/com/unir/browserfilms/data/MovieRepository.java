@@ -4,7 +4,6 @@ import com.unir.browserfilms.model.pojo.Movie;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 
-import javax.xml.crypto.Data;
 import java.math.BigDecimal;
 import java.util.Date;
 import java.util.List;
